@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 40" fill="none" role="img" aria-label="Metasite Software Solutions">
+  <rect x="0" y="4" width="32" height="32" rx="6" fill="#E88936"/>
+  <path d="M8 28V12h4.2l3.8 10.6L19.8 12H24v16h-3.4V17.2L17.2 28h-2.4L11.4 17.2V28H8z" fill="#171D2B"/>
+  <circle cx="26.5" cy="14" r="2" fill="#F5F1E9"/>
+  <text x="42" y="26" font-family="Manrope, system-ui, sans-serif" font-size="18" font-weight="700" letter-spacing="-0.02em" fill="currentColor">Metasite</text>
+</svg>
